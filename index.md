@@ -21,11 +21,11 @@
 
 ### Dynamic Programming
 - Climbing Stairs ✅
-- Coin Change
-- Longest Increasing Subsequence
-- Longest Common Subsequence
-- Word Break Problem
-- Combination Sum
+- Coin Change ✅
+- Longest Increasing Subsequence ✅
+- Longest Common Subsequence ✅
+- Word Break Problem ✅
+- Combination Sum ✅
 - House Robber
 - House Robber II
 - Decode Ways
@@ -50,7 +50,7 @@
 - Meeting Rooms II (Leetcode Premium)
 
 ### Linked List
-- Reverse a Linked List
+- Reverse a Linked List ✅
 - Detect Cycle in a Linked List
 - Merge Two Sorted Lists
 - Merge K Sorted Lists
