@@ -27,7 +27,7 @@
 - Word Break Problem ✅
 - Combination Sum ✅
 - House Robber ✅
-- House Robber II
+- House Robber II ✅
 - Decode Ways
 - Unique Paths
 - Jump Game
