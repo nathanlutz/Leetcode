@@ -29,7 +29,7 @@
 - House Robber ✅
 - House Robber II ✅
 - Decode Ways
-- Unique Paths
+- Unique Paths ✅
 - Jump Game
 
 ### Graph
